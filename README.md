@@ -1,1 +1,1 @@
-# Election-Contract
+# Ethereum Voting Machine
